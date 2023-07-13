@@ -1,6 +1,6 @@
 SELECT firstName, lastName, title
 FROM employee
-LIMIT 5;
+LIMIT 10;
 
 GO
 
